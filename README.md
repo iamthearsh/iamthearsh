@@ -33,6 +33,8 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer**, **Pentester**, and
 - 🎮 **Gamer**: When I’m not coding, you can find me immersed in VR gaming or designing indie games.
 - 🌍 I’m on a mission to be **the world’s best programmer** and help others along the way.
 - 🧑‍🏫 I love **mentoring** aspiring developers and pentesters.
+- 🔄 **And I lost my old GitHub account, so now I'm back after many years in anonymity.**
+
 
 ---
 
@@ -45,7 +47,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer**, **Pentester**, and
 ---
 
 😄 **Pronouns**: He/Him  
-⚡ **Fun Fact**: I can turn coffee into code faster than a compiler!  
+⚡ **Fun Fact**: I can turn coffee into code faster than a compiler!  & I lost my old github account so I am now back after so many years in anonmity 
 
 ---
 
