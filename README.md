@@ -47,8 +47,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer**, **Pentester**, and
 ---
 
 😄 **Pronouns**: He/Him  
-⚡ **Fun Fact**: I can turn coffee into code faster than a compiler!  & I lost my old github account so I am now back after so many years in anonmity 
-
+⚡ **Fun Fact**: I can turn coffee into code faster than a compiler!
 ---
 
 ![Arsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamthearsh&show_icons=true&theme=radical)
